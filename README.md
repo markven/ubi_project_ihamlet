@@ -18,4 +18,7 @@ Yixue
 
 beafajita
 
+Provide slide to introduce：
+http://www.slideshare.net/MarkVen/20140108-32023480
+
 change by sublime
