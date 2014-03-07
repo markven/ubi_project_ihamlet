@@ -1,5 +1,5 @@
 /*
- * À³¥Îµ{¦¡ªì©l¶i¤JÂI
+ * Ã€Â³Â¥ÃŽÂµ{Â¦Â¡ÂªÃ¬Â©lÂ¶iÂ¤JÃ‚I
  * */
 package com.nchu.motoguider;
 
@@ -26,6 +26,6 @@ public class Initial extends Activity
                 startActivity(intent);
                 finish();
              }
-            }, 2000); /* Åã¥Ü2¬í«á¸õÂà¦ÜSpeech.class */    
+            }, 2000); /* æ¸¬è©¦è³‡æ–™ Ã…Ã£Â¥Ãœ2Â¬Ã­Â«Ã¡Â¸ÃµÃ‚Ã Â¦ÃœSpeech.class */    
     }
 }
